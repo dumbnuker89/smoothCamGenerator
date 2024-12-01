@@ -1,12 +1,15 @@
 smoothCamGenerator v001
 
 Date: 01/12/2024
+
 Purpose: Generate a smoother motion path from your 3D camera in Nuke.
+
 General Overview
 
 The smoothCamGenerator Python script is designed to refine the motion of a tracked 3D camera in Nuke. By leveraging a self-contained Python button, this tool creates a new 3D camera with smoother motion while preserving the original direction and trajectory.
 
 Upon execution, the script performs a sequence of operations to generate a new 3D camera linked to the original one. This new camera includes an additional "Smoothing" tab, providing the user with the following controls:
+
 Main Controls
 
     Smooth: Adjusts the degree of smoothness applied to the camera's motion.
