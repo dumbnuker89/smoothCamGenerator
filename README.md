@@ -35,3 +35,11 @@ This tool has been tested on the following Nuke versions:
     14.0v1
 
 While it is expected to work on other versions, compatibility cannot be guaranteed.
+
+Implementation Notes and Future Plans
+
+The current functionality has been wrapped into a group node due to time constraints on the project. This approach allowed for a quick and effective solution to address immediate production needs.
+
+However, this is only a temporary implementation. I plan to rework this tool in the future to integrate it into a custom panel, complete with additional controls and a more polished user experience.
+
+Stay tuned for updates in future versions!
